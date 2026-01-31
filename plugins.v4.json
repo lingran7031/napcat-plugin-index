@@ -106,7 +106,7 @@
       "description": "定时扫描并清理长期不发言的鱼干成员",
       "author": "AQiaoYo",
       "homepage": "https://github.com/AQiaoYo/napcat-plugin-auto-clear",
-      "downloadUrl": "https://github.com/AQiaoYo/napcat-plugin-auto-clear/releases/download/Latest/napcat-plugin-auto-clear.zip",
+      "downloadUrl": "https://github.com/AQiaoYo/napcat-plugin-auto-clear/releases/latest/download/napcat-plugin-auto-clear.zip",
       "tags": [
         "工具",
         "管理"
