@@ -129,20 +129,6 @@
       "minVersion": "4.14.0"
     },
     {
-      "id": "napcat-plugin-auto-clear",
-      "name": "自动清理",
-      "version": "1.2.0",
-      "description": "定时扫描并清理长期不发言的鱼干成员",
-      "author": "AQiaoYo",
-      "homepage": "https://github.com/AQiaoYo/napcat-plugin-auto-clear",
-      "downloadUrl": "https://github.com/AQiaoYo/napcat-plugin-auto-clear/releases/download/v1.2.0/napcat-plugin-auto-clear.zip",
-      "tags": [
-        "工具",
-        "管理"
-      ],
-      "minVersion": "4.14.13"
-    },
-    {
       "id": "napcat-plugin-group-revoke",
       "name": "撤回猪手",
       "version": "1.0",
@@ -155,34 +141,6 @@
         "撤回"
       ],
       "minVersion": "4.14.0"
-    },
-    {
-      "id": "napcat-plugin-bilibili",
-      "name": "Bilibili 解析",
-      "version": "1.1.5",
-      "description": "自动解析聊天消息中的 Bilibili 视频链接,并获取视频详情发送到聊天中",
-      "author": "AQiaoYo",
-      "homepage": "https://github.com/AQiaoYo/napcat-plugin-bilibili",
-      "downloadUrl": "https://github.com/AQiaoYo/napcat-plugin-bilibili/releases/download/v1.1.5/napcat-plugin-bilibili.zip",
-      "tags": [
-        "工具",
-        "娱乐"
-      ],
-      "minVersion": "4.14.13"
-    },
-    {
-      "id": "napcat-plugin-puppeteer",
-      "name": "Puppeteer 渲染服务",
-      "version": "1.5.0",
-      "description": "NapCat Puppeteer 渲染服务插件 - 提供 HTML/模板截图渲染 API，供其他插件调用",
-      "author": "AQiaoYo",
-      "homepage": "https://github.com/AQiaoYo/napcat-plugin-puppeteer",
-      "downloadUrl": "https://github.com/AQiaoYo/napcat-plugin-puppeteer/releases/download/v1.5.0/napcat-plugin-puppeteer.zip",
-      "tags": [
-        "工具",
-        "渲染"
-      ],
-      "minVersion": "4.14.13"
     },
     {
       "id": "napcat-plugin-ssqq",
@@ -240,19 +198,6 @@
       "minVersion": "4.14.0"
     },
     {
-      "id": "napcat-plugin-steam-depot",
-      "name": "Steam Depot",
-      "version": "1.2.0",
-      "description": "从 GitHub 仓库和 ManifestHub 数据源获取 Steam 游戏的 Manifest 和 Depot 解密密钥，自动生成 Lua 脚本并打包发送到 QQ 群",
-      "author": "AQiaoYo",
-      "homepage": "https://github.com/AQiaoYo/napcat-plugin-steam-depot",
-      "downloadUrl": "https://github.com/AQiaoYo/napcat-plugin-steam-depot/releases/download/v1.2.0/napcat-plugin-steam-depot.zip",
-      "tags": [
-        "工具"
-      ],
-      "minVersion": "4.14.0"
-    },
-    {
       "id": "napcat-plugin-delta-force",
       "name": "三角洲行动",
       "version": "1.1.0",
@@ -295,19 +240,6 @@
       "minVersion": "4.14.0"
     },
     {
-      "id": "napcat-plugin-qq-version",
-      "name": "QQ版本更新",
-      "version": "1.1.0",
-      "description": "检测 QQ 版本与 NapCat 推荐的 QQ 版本，支持在线更新升级",
-      "author": "AQiaoYo",
-      "homepage": "https://github.com/AQiaoYo/napcat-plugin-qq-version",
-      "downloadUrl": "https://github.com/AQiaoYo/napcat-plugin-qq-version/releases/download/v1.1.0/napcat-plugin-qq-version.zip",
-      "tags": [
-        "工具"
-      ],
-      "minVersion": "4.14.0"
-    },
-    {
       "id": "napcat-plugin-terraria-wiki",
       "name": "泰拉瑞亚灾厄模组Wiki查询",
       "version": "0.1.2",
@@ -317,20 +249,6 @@
       "downloadUrl": "https://github.com/NanTingPer/napcat-terraria-wiki-plugin/releases/download/v0.1.2/napcat-plugin-terraria-wiki.zip",
       "tags": [
         "工具"
-      ],
-      "minVersion": "4.14.0"
-    },
-    {
-      "id": "napcat-plugin-epic-free",
-      "name": "Epic喜加一",
-      "version": "1.0.3",
-      "description": "Epic Games Store 每周免费游戏订阅推送插件",
-      "author": "AQiaoYo",
-      "homepage": "https://github.com/AQiaoYo/napcat-plugin-epic-free",
-      "downloadUrl": "https://github.com/AQiaoYo/napcat-plugin-epic-free/releases/download/v1.0.3/napcat-plugin-epic-free.zip",
-      "tags": [
-        "订阅",
-        "游戏"
       ],
       "minVersion": "4.14.0"
     },
