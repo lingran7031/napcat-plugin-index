@@ -513,6 +513,19 @@
         "查询"
       ],
       "minVersion": "4.14.0"
+    },
+    {
+      "id": "napcat-plugin-auto-lucky-bag",
+      "name": "自动福袋",
+      "version": "1.0.0",
+      "description": "自动抽取 QQ 福袋",
+      "author": "Nacho",
+      "homepage": "https://github.com/KyuharuTE/napcat-plugin-auto-lucky-bag",
+      "downloadUrl": "https://github.com/KyuharuTE/napcat-plugin-auto-lucky-bag/releases/download/v1.0.0/napcat-plugin-auto-lucky-bag.zip",
+      "tags": [
+        "工具"
+      ],
+      "minVersion": "4.14.0"
     }
   ]
 }
